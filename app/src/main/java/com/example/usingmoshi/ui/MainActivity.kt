@@ -7,8 +7,6 @@ import com.example.usingmoshi.adapter.SampleDataAdapter
 import com.example.usingmoshi.databinding.ActivityMainBinding
 import com.example.usingmoshi.viewmodels.SampleDataViewModel
 
-// TODO: 1 elem jelenik csak meg
-// TODO: Glide-dal betölteni a képeket is
 class MainActivity : AppCompatActivity() {
 
     private val sampleDataAdapter by lazy {
